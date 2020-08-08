@@ -13,3 +13,6 @@ you send the next PR and if they changed the same files as you and if there are 
 resolve them too because if they changed the same line as you that means you both edited the same line 
 and that needs to be fixed by you i will show that in a bit BTW im edititing this as another member of the organization 
 from this window 
+
+
+example to show what happens when you commit without pulling. this commit is also from someone in the org(google)
